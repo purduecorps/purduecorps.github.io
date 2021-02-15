@@ -79,7 +79,7 @@ table td { border: 0; }
 .page-link {
   border: none;
   background-color: unset;
-  font-family: 'Avenir LT Std';
+  font-family: $header-font-family;
 }
 
 .site-nav {
@@ -87,7 +87,7 @@ table td { border: 0; }
 }
 
 .site-title {
-  font-family: 'Avenir LT Std';
+  font-family: $header-font-family;
 }
 
 .site-header {

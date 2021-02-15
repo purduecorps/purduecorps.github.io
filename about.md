@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 
-![logo](/assets/images/corps-at-purdue-logo.svg){:.d-block .mx-auto}
+![logo](/assets/images/logo.png){:.d-block .mx-auto}
 
 > "Having thus a fond affection for you, we were well please to impart to you not only the gospel of God but also our own lives, because you had become very dear to us." ~ I Thessalonians 2:8
 
