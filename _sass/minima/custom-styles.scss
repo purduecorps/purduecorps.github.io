@@ -1,0 +1,112 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.right-image {
+  float: right;
+  width: 30%;
+  height: auto;
+}
+
+.left-image {
+  float: left;
+  width: 30%;
+  height: auto;
+}
+
+table, th, tr, td { border: 0; }
+table td { border: 0; }
+
+.multicol {
+  column-width: calc(#{$content-width}*.45)
+}
+
+.workshop-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.workshop-item {
+    max-width: calc(#{$content-width}/3);
+    background-color: darken($background-color, 5%);
+}
+
+.schedule-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.schedule-item {
+  max-width: #{$content-width};
+  flex-basis: 20%;
+}
+
+.schedule-item td:first-child {
+  text-align: right;
+  white-space: nowrap;
+  width: 1px;
+  font-variant: small-caps;
+}
+
+.schedule-item td:first-child span {
+  font-variant: small-caps;
+}
+
+.card.a {
+  background-color: darken($background-color, 5%);
+}
+
+.card.b {
+  background-color: darken($background-color, 0%);
+}
+
+.responsive-frame {
+  position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+ 
+.responsive-frame iframe {
+  position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
+
+.speaker-pic {
+  width: 50%;
+  max-width: 300px;
+  height: auto;
+}
+
+.page-link {
+  border: none;
+  background-color: unset;
+  font-family: 'Avenir LT Std';
+}
+
+.site-nav {
+  z-index: 9999;
+}
+
+.site-title {
+  font-family: 'Avenir LT Std';
+}
+
+.site-header {
+  background-color:#d9c89d;
+}
+
+h1, h2, h3 {
+  font-family: 'Lobster';
+}
+
+.svg-icon {
+  box-sizing: unset;
+}
+
+@media only screen and (min-width: $on-large) {
+  .schedule-container {
+    max-height: calc(#{$content-width}*.9);
+  }
+  .schedule-item {
+    max-width: calc(#{$content-width}/3);
+  }
+}

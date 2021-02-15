@@ -1,0 +1,36 @@
+---
+title: 2020 Winter Conference
+layout: default
+category: conferences
+
+conference:
+  year:        2020
+  when:        "Friday, January 3rd - Monday, January 6th, 2020"
+  speaker:
+    name:      "George Gregory"
+    job:       "pastor of College Hill RPC in Beaver Falls, PA"
+    pic:       "/assets/images/wc2020/george_gregory.jpg"
+    bio:       "George Gregory is the pastor of College Hill RPC in Beaver Falls, PA."
+  topic:       "Connecting with the Risen Jesus: Life in Light of the Resurrection"
+  cost:        "$85 if registered by December 16th, $95 thereafter"
+  sessions:
+  - title: "Joy and Hope in the Resurrected Jesus (John 20:1-10)"
+  - title: "Comfort from the Resurrected Jesus (John 20:11-18)"
+  - title: "Peace through the Resurrected Jesus (John 20:19-29)"
+  - title: "Last Moments with the Resurrected Jesus (John 21:1-25)"
+  workshops-a:
+  - title: "Like a Tree Planted by Water"
+    desc: "As with all living things, growth is essential for the Christian life - growth in knowledge, growth in faith, and growth in obedience. And no matter how long we have walked with the Lord, we should desire more of this growth in our lives. But what produces this kind of spiritual growth in us? This is what this workshop will address from God’s Word."
+  - title: "RP 101"
+    desc: "What do Reformed Presbyterians believe? Why do we sing only psalms without instruments and baptize our babies? In this workshop, we will answer these questions along with many more on the basics of RP theology and practice. Whether you are new to the RP Church or want a refresher, this workshop will help lay the foundation for you in these areas."
+  - title: "The Good Steward"
+    desc: "The Bible has a lot to say about money. Much of it is a warning not to love money, but it also teaches us how to be good stewards of the money God has given us. In this workshop, we will learn some of the key biblical principles regarding money, as well as practical help for managing your personal finances at this stage in your life."
+  workshops-b:
+  - title: "The Need for Friendship"
+    desc: "In our world of iPhones and Facebook, we are both connected and disconnected from other people at the same time. We are connected in that we can send text messages and see posts, but disconnected in that we lack quality time. In fact, more people are lonely today because of these things. In this workshop, we will address this problem that many people are facing and see how God has provided us a solution in His design for true friendship."
+  - title: "Why Are You Cast Down, O My Soul?"
+    desc: "Do you ever deal with doubt or feel depressed? Many Christians say they do - and you may too. How are we to make sense of it? What are we to do about it? The Bible has much to say, which is what this workshop will seek to cover. Come find out how you can combat those pesky doubts and find more joy in the Lord."
+  - title: "How to Make God-Honoring Life Decisions"
+    desc: "Being a young adult is a time when the options seem to be endless and the pressure to make the right choice seems to be overwhelming. What are you to do? Which one to choose? In this workshop, we will learn how to discover God’s will and make good, biblically-informed decisions, so that you can have peace with the choices you make."
+---
+{% include conference.md %}

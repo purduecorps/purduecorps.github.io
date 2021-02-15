@@ -1,0 +1,7 @@
+$content-width:    1200px;
+$base-font-family: "Source Sans Pro", $base-font-family;
+$calendar-mode: AGENDA;
+
+@media screen and (min-width: $on-large) {
+  $calendar-mode: MONTH;
+}
