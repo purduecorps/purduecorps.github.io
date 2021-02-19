@@ -33,7 +33,8 @@ conference:
 **Where:** The Ark (Rainbow Christian Camp) - 3522 N 1000 W 27, Converse, IN 46919  
 **What:** Fellowship, biblical teaching, food, fun, and games!  
 **Cost:** {{ page.conference.cost }}  
-**Accommodations:** Bunk beds and mattresses are provided. Please bring a sleeping bag, pillow, and towel. And don't forget to bring snacks to share! All meals (excluding Friday night) are provided.
+**Accommodations:** Bunk beds and mattresses are provided. Please bring a sleeping bag, pillow, and towel. And don't forget to bring snacks to share! All meals (excluding Friday night) are provided.  
+**Registration:** Deadline is **March 12th** and we can only accommodate **40** attendees.
 
 <div class='register-btn'>
 <a class="btn btn-dark" target="_blank" rel="noreferrer noopener" href="https://forms.gle/PhioY4Mde5dndwXk7">Register</a>
