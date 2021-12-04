@@ -1,5 +1,5 @@
 ---
-title: 2022 Spring Conference
+title: 2022 Winter Conference
 layout: default
 category: conferences
 
@@ -15,10 +15,10 @@ conference:
   topic:       "The Christian at War: Lessons from the Temptation of Christ" 
   cost:        "TBD"
   sessions:
-  - title: "TBD"
-  - title: "TBD"
-  - title: "TBD"
-  - title: "TBD"
+  - title: "Drawing the Battle Lines (Gen.1:1-Matthew 3:17)"
+  - title: "The Commander-in-Chief’s Victory (Matthew 4:1-11)"
+  - title: "Knowing Your Enemy (Matthew 4:1-11)"
+  - title: "Resisting Satan’s Strategies (Matthew 4:1-11)"
   workshops-a:
   - title: "TBD"
     desc: "TBD"
