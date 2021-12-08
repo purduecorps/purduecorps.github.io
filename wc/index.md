@@ -20,10 +20,18 @@ conference:
   - title: "Knowing Your Enemy (Matthew 4:1-11)"
   - title: "Resisting Satan’s Strategies (Matthew 4:1-11)"
   workshops-a:
-  - title: "TBD"
-    desc: "TBD"
+  - title: "Surely Goodness and Mercy - A Study of the Doctrine of Assurance"  
+    desc: "This workshop will examine and apply the teaching of God's Word about the assurance of salvation, focusing most on the book of Hebrews and its recurring call to 'confidence.'  Questions to be addressed include: What really is assurance?  Is the lack of assurance a mark of unbelief?  How can I grow in assurance?  What about false assurance?"  
+  - title: "No Adam, No Gospel"  
+    desc: "The contemporary influence of the theory of Evolution is inescapable in the college and our culture. Christians need to be informed about this theory and the implications that it can have upon the Church’s teaching on several issues, such as the authority of Scripture, the origin of sin and death, the scope of Christ’s redemption, and the cooperation of faith and science. This workshop will walk through Dr. Richard Gaffin’s booklet, No Adam, No Gospel, and focus primarily on the Bible’s witness that the historical Adam is the progenitor of the human race. This is because with no Adam, there is no gospel."  
+  - title: "Working for Christ"  
+    desc: "Whether you're in college, vocational training, or just starting off in your career, it can sometimes be challenging to get a view of what it's truly like to strive to live as a Christian in the workplace. At this workshop, we'll seek to better understand what it means to practically serve Christ in your profession while pursuing excellence in all that you do."  
   workshops-b:
-  - title: "TBD"
-    desc: "TBD"
+  - title: "Your Career, It’s a Journey Not a Destination"  
+    desc: "Have you ever wondered what work you will be doing in the working world? The presenter of this workshop intends to share key experiences from his years within the workplace with a close look at how things can change along the way and how to be ready for those changes. We will be looking at what it means to be a leader and also what it means to work in a global environment. This time is meant to be interactive to openly discuss what it means to have a career and how to best focus it, treating your working career as an adventure with the ultimate goal, to honor and glorify God."  
+  - title: "Anger: From Destructive to Constructive"  
+    desc: "When the Bible talks about anger, most of the time it is referring to God's righteous anger. God's anger burns against sin but also results in redemption. As image bearers of God, how can we 'be angry, and not sin?' The answer is not to avoid all anger. Rather, we should be angry about the right things and express our anger in the right ways like our Father. At this workshop, we'll think through Biblically how to channel our anger in a way that pleases God and brings joy to others."  
+  - title: "Jesus’ Means on Jesus’ Path"  
+    desc: "To follow Jesus is to walk in His footsteps, to take His path – the path of the cross. How does He lead us? How does He offer grace for the journey? What tools (means) does He give us to that end? The church has long found the answer to this question in the word, sacraments, and prayer. In this workshop, particularly through the book of Mark, we will see how Jesus models, trains, and guides us in these means through the story of His life on earth. On His path, He was a man of the Word, prayer, and sacrament. And He shows us how to do and be the same."  
 ---
 {% include conference.md %}
