@@ -13,9 +13,12 @@ conference:
     bio:       "Born in Scotland and raised in Northern Ireland, Dr. Whitla immigrated to the United States in 2000, and has been an avid student of history since childhood. He presents Church History as a pastoral discipline, equipping pastors to situate themselves and their flocks in the unfolding narrative directed by the sovereign hand of the Lord of History, Jesus Christ. But since it is also an academic discipline, he teaches future pastors not only to recount the story of Christ building His Church, but to perform the task of historians themselves – engaging confidently with original sources and interpreting and applying them appropriately."
     pic:       "https://rpts.edu/assets/images/faculty/Whitla.jpg"
   topic:       "The Christian at War: Lessons from the Temptation of Christ" 
-  cost:        "TBD"
+  cost:        "$85 if registered by December 31st, $95 thereafter"  
+  registration:
+    is-open: true
+    url: https://docs.google.com/forms/d/e/1FAIpQLScMfetWc5w7xpiPvOkvdcAL5r2wQGo56FbPR29TGVuTjjf6rg/viewform
   sessions:
-  - title: "Drawing the Battle Lines (Gen.1:1-Matthew 3:17)"
+  - title: "Drawing the Battle Lines (Genesis 1:1 - Matthew 3:17)"
   - title: "The Commander-in-Chief’s Victory (Matthew 4:1-11)"
   - title: "Knowing Your Enemy (Matthew 4:1-11)"
   - title: "Resisting Satan’s Strategies (Matthew 4:1-11)"
