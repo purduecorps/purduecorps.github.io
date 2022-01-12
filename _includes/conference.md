@@ -74,7 +74,7 @@
 ### Saturday
 {:.text-center}
 
-|  7:30 <span>am</span> | Breakfast
+|  8:00 <span>am</span> | Breakfast
 |  9:00 <span>am</span> | “A” workshops
 | 10:15 <span>am</span> | “B” workshops
 | 11:30 <span>am</span> | **Session two:** {{ page.conference.sessions[1].title }}
@@ -93,7 +93,7 @@
 
 |  8:30 <span>am</span> | Breakfast
 |  9:45 <span>am</span> | Meet to sing, then leave for worship
-| 10:30 <span>am</span> | Worship at Marion RPC
+| 10:30 <span>am</span> | Worship at {{ page.conference.worship }}
 | 12:30 <span>pm</span> | Lunch
 |                     | Free time
 |  5:00 <span>pm</span> | Testimony
