@@ -15,7 +15,7 @@ conference:
   cost:        "$85"
   worship:     "Sycamore RPC"
   registration:
-    is-open: true
+    is-open: false
     url: https://docs.google.com/forms/d/e/1FAIpQLScMfetWc5w7xpiPvOkvdcAL5r2wQGo56FbPR29TGVuTjjf6rg/viewform
   sessions:
   - title: "Drawing the Battle Lines (Genesis 1:1 - Matthew 3:17)"
