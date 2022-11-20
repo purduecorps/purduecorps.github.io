@@ -6,7 +6,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
-    facebook: purduecorps
+    - { platform: facebook,          user_url: "https://www.facebook.com/purduecorps" }
   skin: classic
 
 # Build settings
