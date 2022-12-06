@@ -9,7 +9,7 @@ conference:
   speaker:
     name:      "Ian Wise"
     job:       "associate pastor of Southside Reformed Presbyterian Church"
-    bio:       ""
+    bio:       "Ian Wise is married to Deanna, and together they have two grown sons, and two teenage daughters. Having served churches in Michigan and the Carolinas, Ian came to Southside, Indianapolis in the summer of 2019 as Southside RPC's associate pastor. A native of South Carolina, Ian attended Erskine College and Reformed Theological Seminary, Charlotte.  He was ordained in 2002."
     pic:       "/assets/images/wc2023/wise.png"
   topic:       "Learning to Lament: Lessons from Lamentations" 
   cost:        "$85"
