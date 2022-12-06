@@ -18,7 +18,10 @@ conference:
     is-open: false
     url: https://docs.google.com/forms/d/e/1FAIpQLScMfetWc5w7xpiPvOkvdcAL5r2wQGo56FbPR29TGVuTjjf6rg/viewform
   sessions:
-  - title: "Coming Soon"
+  - title: "The Reality of Grief (Lamentations 1)"
+  - title: "Godly Grief (Lamentations 2)"
+  - title: "Finding Hope in Grief (Lamentations 3)"
+  - title: "Grieving for the Church (Lamentations 4)"
   workshops-a:
   - title: "Coming Soon"  
     desc: "Workship information coming soon."  
