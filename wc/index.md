@@ -13,7 +13,7 @@ conference:
     pic:       "/assets/images/wc2023/wise.png"
   topic:       "Learning to Lament: Lessons from Lamentations" 
   cost:        "$90"
-  worship:     "Sycamore RPC"
+  worship:     "Marion RPC"
   registration:
     is-open: true
     url: https://forms.gle/HNKxhPPARr3kyzuY9
