@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /
-layout: default
+layout: base
 ---
 
 ![logo](/assets/images/logo.png){:.d-block .mx-auto}

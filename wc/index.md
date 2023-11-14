@@ -1,23 +1,26 @@
 ---
-title: 2023 Winter Conference
-layout: default
+title: 2024 Winter Conference
+layout: base
 category: conferences
 
 conference:
-  year: 2023
-  when: "Friday, January 13th - Monday, January 16th, 2022"
+  year: 2024
+  when: "Friday, January 12th - Monday, January 15th, 2024"
   speaker:
-    name:      "Ian Wise"
-    job:       "associate pastor of Southside Reformed Presbyterian Church"
-    bio:       ""
-    pic:       "/assets/images/wc2023/wise.png"
-  topic:       "Learning to Lament: Lessons from Lamentations" 
-  cost:        "$85"
+    name:      "Nathan Shaver"
+    job:       ""
+    bio:       "After working in the music industry for 10 years, Nathan Shaver answered the call to pastoral ministry. He has served three congregations in Central Indiana. Nathan currently teaches at Classical Studies of Indianapolis and is a Pastoral Intern at 2RP and an MDiv student at RPTS. He is married to Rachelle and they have six children."
+    pic:       "/assets/images/wc2024/nshaver.png"
+  topic:       "Contending for the Faith in the Household of God" 
+  cost:        "TBD"
   worship:     "Sycamore RPC"
   registration:
     is-open: false
-    url: https://docs.google.com/forms/d/e/1FAIpQLScMfetWc5w7xpiPvOkvdcAL5r2wQGo56FbPR29TGVuTjjf6rg/viewform
+    url:
   sessions:
+  - title: "Coming Soon"
+  - title: "Coming Soon"
+  - title: "Coming Soon"
   - title: "Coming Soon"
   workshops-a:
   - title: "Coming Soon"  

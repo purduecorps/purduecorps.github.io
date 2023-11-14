@@ -1,8 +1,8 @@
-![banner](/assets/images/wc2020/attendees-fallback.jpg){:.d-block .mx-auto style="width: 100%" srcset="
-/assets/images/wc2020/attendees-1x.jpg 581w,
-/assets/images/wc2020/attendees-2x.jpg 1162w,
-/assets/images/wc2020/attendees-3x.jpg 1742w,
-/assets/images/wc2020/attendees-4x.jpg 2323w"}
+![banner](/assets/images/wc2024/attendees-fallback.jpg){:.d-block .mx-auto style="width: 100%" srcset="
+/assets/images/wc2024/attendees-1x.jpg 286w,
+/assets/images/wc2024/attendees-2x.jpg 572w,
+/assets/images/wc2024/attendees-3x.jpg 857w,
+/assets/images/wc2024/attendees-4x.jpg 1143w"}
 
 # {{ page.title }}
 {:.text-center}
@@ -32,11 +32,11 @@
 </div>
 <div class="col-md-4">
 <img srcset="
-/assets/images/wc2020/two_fellas-1x.jpg 1336w,
-/assets/images/wc2020/two_fellas-2x.jpg 2672w,
-/assets/images/wc2020/two_fellas-3x.jpg 4008w,
-/assets/images/wc2020/two_fellas-4x.jpg 5344w"
- src="/assets/images/wc2020/two_fellas-fallback.jpg" alt="some dudes" class="img-thumbnail card-img">
+/assets/images/wc2024/two_ladies-1x.jpg 579w,
+/assets/images/wc2024/two_ladies-2x.jpg 1158w,
+/assets/images/wc2024/two_ladies-3x.jpg 1737w,
+/assets/images/wc2024/two_ladies-4x.jpg 2316w"
+ src="/assets/images/wc2024/two_ladies-fallback.jpg" alt="some ladies" class="img-thumbnail card-img">
 </div>
 </div>
 </div>
