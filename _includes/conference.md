@@ -16,7 +16,7 @@
 
 **When:** {{ page.conference.when }}   
 **Where:** The Ark (Rainbow Christian Camp) - 3522 N 1000 W 27, Converse, IN 46919  
-**Speaker:** {{ page.conference.speaker.name }}, {{ page.conference.speaker.job }}  
+**Speaker:** {{ page.conference.speaker.name }}{% if page.conference.speaker.job %}, {{ page.conference.speaker.job }}{% endif %}  
 **Topic:** {{ page.conference.topic }}  
 **What else:** Fellowship, workshops by other speakers, food, fun, and games!  
 **Cost:** {{ page.conference.cost }}  
