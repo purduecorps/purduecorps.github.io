@@ -18,8 +18,8 @@ conference:
   cost:        "$90"
   worship:     "Sycamore RPC"
   registration:
-    is-open: false
-    url:
+    is-open: true
+    url: "https://subsplash.com/reformed-presbyterian-ch/lb/ev/+jgsrc2q/register"
   sessions:
   - title: "An Urgent Appeal (Jude 1-4)"
   - title: "A Solemn Reminder (Jude 5-10)"
