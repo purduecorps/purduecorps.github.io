@@ -1,46 +1,37 @@
 ---
-title: 2024 Winter Conference
+title: 2025 Winter Conference
 layout: base
 category: conferences
 
 conference:
-  year: 2024
-  when: "Friday, January 12th - Monday, January 15th, 2024"
+  year: 2025
+  when: "Friday, January 17th - Monday, January 20th, 2025"
   speaker:
-    name:      "Nathan Shaver"
-    #job:       ""
-    bio:       "After working in the music industry for 10 years, Nathan Shaver answered the call to pastoral ministry. \
-                He has served three congregations in Central Indiana. Nathan currently teaches at Classical Studies of \
-                Indianapolis and is a Pastoral Intern at 2RP and an MDiv student at RPTS. He is married to Rachelle and \
-                they have six children."
-    pic:       "/assets/images/wc2024/nshaver.png"
-  topic:       "Contending for the Faith in the Household of God" 
-  cost:        "$90"
+    name:      "Titus Martin"
+    job:       "Pastor of College Hill RPC"
+    bio:       "Titus was born and raised in Phoenix, Arizona, and later attended Geneva College in western Pennsylvania.\
+                With a degree in elementary education, he then spent a year teaching in the public schools of West Philadelphia before \
+                studying at the Reformed Presbyterian Theological Seminary in Pittsburgh. \
+                Shortly after his graduation from seminary, he accepted a call to College Hill Reformed Presbyterian Church in Beaver Falls,\
+                where he continues to serve as pastor today. \
+                He is married to Alyssa and has three children: Finley (8), Knox (6), and Piper (3). "
+    pic:       "/assets/images/wc2025/nshaver.png"
+  topic:       "Who Am I? Finding Your Identity in Christ" 
+  cost:        "TBD"
   worship:     "Sycamore RPC"
   registration:
-    is-open: true
-    url: "https://subsplash.com/reformed-presbyterian-ch/lb/ev/+jgsrc2q/register"
+    is-open: false
+    url: "https://subsplash.com/rpcl/lb/ev/+jz8hpc4/register"
   sessions:
-  - title: "An Urgent Appeal (Jude 1-4)"
-  - title: "A Solemn Reminder (Jude 5-10)"
-  - title: "A Word of Woe (Jude 11-19)"
-  - title: "A Call to Mercy (Jude 20-24)"
+  - title: "Identified by Relationships? (John 11)"
+  - title: "Identified by Messiness? (1 Corinthians 1:1-3)"
+  - title: "Identified by Success? (Luke 10:18-20)"
+  - title: "Identified by God's Great Love! (Ephesians 1-6)"
   workshops-a:
-  - title: "Follow Me – The Call of Christ into a Personal Relationship with Him"  
-    desc: "In this workshop, we will consider the call of Christ to enter into a personal relationship with Him and define \
-           what it means to be one of His disciples. It will also equip you to be an ardent disciple who lives with daily \
-           purpose, meaning, and eternal significance."  
-  - title: "The Regulative Principle of Worship"
-    desc: "What comes to mind when you hear the phrase, \"the regulative principle of worship\"? A theological straitjacket on our Christian liberty? \
-           A kill-joy attitude toward Christian worship? A codeword for Reformed arrogance towards other worship practices? In this workshop, we will \
-           examine what the regulative principle is, why we hold to it, and the joy and confidence it can bring us as we worship our Redeemer. We will \
-           see how it is a doctrine full of comfort for Christians who desire to worship the Lord in \"spirit and truth\" (John 4:24)."
+  - title: "Coming Soon"  
+    desc: "TBD"  
   workshops-b:
-  - title: "Joy and Peace in Christ"
-    desc: "Sinful anxiety is the enemy of peace and joy in Christ. In this workshop, we will explore Philippians 4:4-11 and consider what it means to \
-           have peace and joy with Christ. Is all anxiety sinful? How can I know if I have peace with God when I don't feel like I do? How can I know \
-           I am saved? We will explore these questions and more in this workshop."  
-  - title: "The Beauty and Majesty of the Whole"
-    desc: "This workshop will focus on recognizing biblical themes and the impact of their use and development throughout Scripture, leading us to stand in awe of its Author as we know and love Him more"
+  - title: "Coming Soon"  
+    desc: "TBD"  
 ---
 {% include conference.md %}
