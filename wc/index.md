@@ -15,7 +15,7 @@ conference:
                 Shortly after his graduation from seminary, he accepted a call to College Hill Reformed Presbyterian Church in Beaver Falls,\
                 where he continues to serve as pastor today. \
                 He is married to Alyssa and has three children: Finley (8), Knox (6), and Piper (3). "
-    pic:       "/assets/images/wc2025/nshaver.png"
+    pic:       "/assets/images/wc2025/tmartin.png"
   topic:       "Who Am I? Finding Your Identity in Christ" 
   cost:        "TBD"
   worship:     "Sycamore RPC"
