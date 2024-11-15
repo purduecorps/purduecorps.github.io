@@ -25,6 +25,8 @@
 {% if page.conference.registration.is-open and page.conference.registration.url %}
 <center>
 <a href="{{ page.conference.registration.url }}"><button class="big-button">Register now!</button></a>
+<div style="width: 60px"></div>
+<a href="{{ page.conference.flyer.url }}"><button class="big-button">Flyer</button></a>
 </center>
 {% endif %}
 

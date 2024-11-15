@@ -22,6 +22,8 @@ conference:
   registration:
     is-open: false
     url: "https://subsplash.com/rpcl/lb/ev/+jz8hpc4/register"
+  flyer:
+    url: "/assets/images/wc2025/CORPS-WC-2025_Flyer.pdf"
   sessions:
   - title: "Identified by Relationships? (John 11)"
   - title: "Identified by Messiness? (1 Corinthians 1:1-3)"
