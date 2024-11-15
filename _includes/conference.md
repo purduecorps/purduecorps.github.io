@@ -22,13 +22,13 @@
 **Cost:** {{ page.conference.cost }}  
 **Accommodations:** Bunk beds and mattresses are provided. Please bring a sleeping bag, pillow, and towel. And don't forget to bring snacks to share! All meals (excluding Friday night) are provided.
 
-{% if page.conference.registration.is-open and page.conference.registration.url %}
 <center>
+{% if page.conference.registration.is-open and page.conference.registration.url %}
 <a href="{{ page.conference.registration.url }}"><button class="big-button">Register now!</button></a>
 <div style="width: 60px"></div>
+{% endif %}
 <a href="{{ page.conference.flyer.url }}"><button class="big-button">Flyer</button></a>
 </center>
-{% endif %}
 
 </div>
 </div>
