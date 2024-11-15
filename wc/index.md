@@ -9,12 +9,12 @@ conference:
   speaker:
     name:      "Titus Martin"
     job:       "Pastor of College Hill RPC"
-    bio:       "Titus was born and raised in Phoenix, Arizona, and later attended Geneva College in western Pennsylvania.\
+    bio:       "Titus was born and raised in Phoenix, Arizona, and later attended Geneva College in western Pennsylvania. \
                 With a degree in elementary education, he then spent a year teaching in the public schools of West Philadelphia before \
                 studying at the Reformed Presbyterian Theological Seminary in Pittsburgh. \
-                Shortly after his graduation from seminary, he accepted a call to College Hill Reformed Presbyterian Church in Beaver Falls,\
+                Shortly after his graduation from seminary, he accepted a call to College Hill Reformed Presbyterian Church in Beaver Falls, \
                 where he continues to serve as pastor today. \
-                He is married to Alyssa and has three children: Finley (8), Knox (6), and Piper (3). "
+                He is married to Alyssa and has three children: Finley (8), Knox (6), and Piper (3)."
     pic:       "/assets/images/wc2025/tmartin.png"
   topic:       "Who Am I? Finding Your Identity in Christ" 
   cost:        "TBD"
