@@ -17,7 +17,7 @@ conference:
                 He is married to Alyssa and has three children: Finley (8), Knox (6), and Piper (3)."
     pic:       "/assets/images/wc2025/tmartin.png"
   topic:       "Who Am I? Finding Your Identity in Christ" 
-  cost:        "TBD"
+  cost:        "$100"
   worship:     "Sycamore RPC"
   registration:
     is-open: false
