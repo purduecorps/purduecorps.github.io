@@ -83,9 +83,9 @@
 | 12:30 <span>pm</span> | Lunch
 |                     | Free time
 |  6:00 <span>pm</span> | Dinner
-|  7:00 <span>pm</span> | Testimony
-|  7:15 <span>pm</span> | **Session three:** {{ page.conference.sessions[2].title }}
-|  8:30 <span>pm</span> | Group activity
+|  7:00 <span>pm</span> | Testimony and RPGM Presentation
+|  7:30 <span>pm</span> | **Session three:** {{ page.conference.sessions[2].title }}
+|  8:45 <span>pm</span> | Group activity
 
 </li>
 <li class="schedule-item" markdown="1">
@@ -98,9 +98,9 @@
 | 10:30 <span>am</span> | Worship at {{ page.conference.worship }}
 | 12:30 <span>pm</span> | Lunch
 |                     | Free time
-|  5:00 <span>pm</span> | Testimony
-|  5:15 <span>pm</span> | **Session four:** {{ page.conference.sessions[3].title }}
-|  6:45 <span>pm</span> | Dinner
+|  5:00 <span>pm</span> | Testimony and RPTS Presentation
+|  5:30 <span>pm</span> | **Session four:** {{ page.conference.sessions[3].title }}
+|  6:30 <span>pm</span> | Dinner
 |  7:30 <span>pm</span> | Stump the Pastors
 
 </li>
