@@ -18,7 +18,7 @@ conference:
     pic:       "/assets/images/wc2025/tmartin.png"
   topic:       "Who Am I? Finding Your Identity in Christ" 
   cost:        "$100"
-  worship:     "Sycamore RPC"
+  worship:     "Marion RPC"
   registration:
     is-open: true
     url: "https://subsplash.com/rpcl/lb/ev/+jz8hpc4/register"
