@@ -30,10 +30,14 @@ conference:
   - title: "Identified by Success? (Luke 10:18-20)"
   - title: "Identified by God's Great Love! (Ephesians 1-6)"
   workshops-a:
-  - title: "Coming Soon"  
-    desc: "TBD"  
+  - title: "Making Disciples and Leading Bible Studies in Jesus' Footsteps"  
+    desc: "Jesus called His disciples to make disciples and teach them \"all that I have commanded you\". What does it look like for Christians to engage these tasks? We will consider the broad theme of discipleship (leading people to follow Jesus as you seek to follow Him). We will then consider, specifically, the task of leading Bible studies as one expression of personal and group discipleship."  
+  - title: "How Is My Walk in Christ?"  
+    desc: "This is a serious question that is good for all of us to ask. During this workshop we will take a closer look at what it means to do a spiritual checkup so that you have the ability to examine your spiritual health before the Lord. The apostle Paul challenged the Corinthians to examine their hearts and the Puritans also taught that self-examination is critical to a healthy Christian life."  
   workshops-b:
-  - title: "Coming Soon"  
-    desc: "TBD"  
+  - title: "How to Engage with the Unbelieving World and Its Ideas"  
+    desc: "Ideas are not neutral and when they are followed they have natural consequences that are either glorifying to God, or fundamentally rebellious against Him. When should I engage with ideas that are antithetical to the Christian worldview? How do I engage without having my own foundation crumble? Is there ever a time where I should not engage? In this workshop, we will consider some biblical principles to keep in mind when engaging with the unbelieving world and its ideas."
+  - title: "Renewing the Heart: Biblically Understanding and Managing Emotions"
+    desc: "This workshop explores how the dynamic heart—cognition (thoughts), emotion (feelings), and volition (choices)—shapes our emotional responses. Discover how beliefs and desires influence your decisions and learn practical tools to align your emotions with God’s Word. We’ll seek to uncover how to glorify God in our emotional lives and walk confidently in the truth of the Gospel."
 ---
 {% include conference.md %}
