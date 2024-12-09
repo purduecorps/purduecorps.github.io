@@ -20,7 +20,7 @@ conference:
   cost:        "$100"
   worship:     "Sycamore RPC"
   registration:
-    is-open: false
+    is-open: true
     url: "https://subsplash.com/rpcl/lb/ev/+jz8hpc4/register"
   flyer:
     url: "/assets/images/wc2025/CORPS-WC-2025_Flyer.pdf"
