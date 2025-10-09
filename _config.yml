@@ -9,5 +9,8 @@ minima:
     - { platform: facebook,          user_url: "https://www.facebook.com/purduecorps" }
   skin: classic
 
+plugins:
+  - jekyll-remote-theme
+
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@b3385fe
