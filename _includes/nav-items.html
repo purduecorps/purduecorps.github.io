@@ -1,5 +1,8 @@
 <div class="nav-items">
-  {%- for path in include.paths -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {%- for path in page_paths -%}
+  {%- assign my_page = site.pages | where: "path", path | first -%}
+  {%- assign root =  path | split: "/" | first -%}
   {%- if my_page.title and root != "wc" -%}
   {%- assign hyperpage = site.pages | where: "path", path | first -%}
   {%- if hyperpage.title %}

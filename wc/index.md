@@ -5,7 +5,7 @@ category: conferences
 
 conference:
   year: 2026
-  when: "Friday, January 16th - Monday, January 17th, 2026"
+  when: "Friday, January 16th - Monday, January 19th, 2026"
   speaker:
     name:      "Jonathan Landry Cruse"
     job:       "Pastor of Community Presbyterian Church (OPC) in Kalamazoo, MI"
