@@ -36,7 +36,7 @@ conference:
   workshops-b:
   - title: "Gospel Hope for the Sluggard"  
     desc: "Laziness is a destructive and a deadly sin. Solomon tells us, “Whoever is slack in his work is a brother to him who destroys” and “The desire of the sluggard kills him” (Prov. 18:9; 21:25). This workshop will first examine the nature and dangers of this sin. Second, it will explore how the cure for laziness is found in the gospel of Jesus Christ, not our own efforts. Third, it will outline practical steps we can take, in light of the gospel, to combat this sin."
-  - title: "TBD"
-    desc: ""
+  - title: "Heavenly Communion: The Gospel of Christ Concerning Last Things"
+    desc: "What happens when we die—and what does that reveal about the gospel itself? This workshop explores the destiny of every soul in light of Christ’s redeeming work. We will consider both the believer’s communion with God in glory and the unbeliever’s separation from Him in judgment. From creation and the fall to the resurrection and final day, Scripture unfolds a sobering yet hope-filled story: that eternal life is fellowship with the living God through His Son. Understanding heaven and hell rightly reshapes how we live, worship, and hope in the present."
 ---
 {% include conference.md %}
