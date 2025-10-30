@@ -19,8 +19,8 @@ conference:
   cost:        "$105"
   worship:     "Sycamore RPC"
   registration:
-    is-open: false
-    url: ""
+    is-open: true
+    url: "https://rpcl.breezechms.com/form/winter-conference-2026"
   flyer:
     url: "/assets/images/wc2026/CORPS-WC-2026_Flyer.pdf"
   sessions:
