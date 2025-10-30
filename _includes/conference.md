@@ -24,10 +24,10 @@
 
 <center>
 {% if page.conference.registration.is-open and page.conference.registration.url %}
-<a href="{{ page.conference.registration.url }}"><button class="big-button">Register now!</button></a>
+<a href="{{ page.conference.registration.url }}"><button class="big-button m-2">Register now!</button></a>
 <div style="width: 60px"></div>
 {% endif %}
-<a href="{{ page.conference.flyer.url }}"><button class="big-button">Flyer</button></a>
+<a href="{{ page.conference.flyer.url }}"><button class="big-button m-2">Flyer</button></a>
 </center>
 
 </div>
