@@ -1,4 +1,4 @@
-![banner](/assets/images/wc2024/attendees.jpg){:.d-block .mx-auto style="width: 100%"}
+![banner](/assets/images/wc2027/attendees.jpg){:.d-block .mx-auto style="width: 100%"}
 
 # {{ page.title }}
 {:.text-center}
@@ -29,7 +29,7 @@
 </div>
 </div>
 <div class="col-md-4">
-<img src="/assets/images/wc2024/two_ladies.jpg" loading="lazy" alt="some ladies" class="img-thumbnail card-img">
+<img src="/assets/images/wc2027/games.jpg" loading="lazy" alt="students playing games" class="img-thumbnail card-img">
 </div>
 </div>
 </div>
@@ -111,7 +111,7 @@
 <div class="card {% cycle "a", "b" %} shadow-lg" markdown="1">
 <div class="row no-gutters">
 <div class="col-md-4">
-<img src="/assets/images/wc2020/buncha_fellas.jpg" loading="lazy" alt="some dudes" class="img-thumbnail card-img">
+<img src="/assets/images/wc2027/workshop.jpg" loading="lazy" alt="a workshop session" class="img-thumbnail card-img">
 </div>
 <div class="col-md-8">
 <div class="card-body" markdown="1">
