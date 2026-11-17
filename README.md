@@ -29,3 +29,18 @@ bundle update github-pages
 
 The flake provides Ruby 3.3 to match GitHub Pages. It pins nixpkgs to `nixos-25.11` because unstable has dropped
 Ruby 3.3. When GitHub Pages moves to a newer Ruby, update the Ruby package and the nixpkgs pin in `flake.nix`.
+
+## Adding photos
+
+Each photo is a single JPEG in `assets/images/wcYYYY/`. Shrink it before you commit it:
+
+- Full-width banners: 2000px wide.
+- Card photos: 1000px on the longest side.
+
+On macOS, `sips` does this without installing anything:
+
+```sh
+sips -s format jpeg -s formatOptions 80 -Z 1000 original.png --out assets/images/wc2027/photo.jpg
+```
+
+Use `-Z 2000` for a banner. Then point the page at the new file. Add `loading="lazy"` to images below the top of the page.

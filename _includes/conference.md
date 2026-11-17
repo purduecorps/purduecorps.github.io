@@ -1,8 +1,4 @@
-![banner](/assets/images/wc2024/attendees-fallback.jpg){:.d-block .mx-auto style="width: 100%" srcset="
-/assets/images/wc2024/attendees-1x.jpg 286w,
-/assets/images/wc2024/attendees-2x.jpg 572w,
-/assets/images/wc2024/attendees-3x.jpg 857w,
-/assets/images/wc2024/attendees-4x.jpg 1143w"}
+![banner](/assets/images/wc2024/attendees.jpg){:.d-block .mx-auto style="width: 100%"}
 
 # {{ page.title }}
 {:.text-center}
@@ -33,12 +29,7 @@
 </div>
 </div>
 <div class="col-md-4">
-<img srcset="
-/assets/images/wc2024/two_ladies-1x.jpg 579w,
-/assets/images/wc2024/two_ladies-2x.jpg 1158w,
-/assets/images/wc2024/two_ladies-3x.jpg 1737w,
-/assets/images/wc2024/two_ladies-4x.jpg 2316w"
- src="/assets/images/wc2024/two_ladies-fallback.jpg" alt="some ladies" class="img-thumbnail card-img">
+<img src="/assets/images/wc2024/two_ladies.jpg" loading="lazy" alt="some ladies" class="img-thumbnail card-img">
 </div>
 </div>
 </div>
@@ -46,7 +37,7 @@
 <div class="card {% cycle "a", "b" %} shadow-lg" markdown="1">
 <div class="row no-gutters">
 <div class="col-md-4">
-<img srcset="{{ page.conference.speaker.pic-srcset }}" src="{{ page.conference.speaker.pic }}" alt="speaker" class="img-thumbnail card-img">
+<img src="{{ page.conference.speaker.pic }}" alt="speaker" class="img-thumbnail card-img">
 </div>
 <div class="col-md-8">
 <div class="card-body" markdown="1">
@@ -120,12 +111,7 @@
 <div class="card {% cycle "a", "b" %} shadow-lg" markdown="1">
 <div class="row no-gutters">
 <div class="col-md-4">
-<img srcset="
-/assets/images/wc2020/buncha_fellas-1x.jpg 926w,
-/assets/images/wc2020/buncha_fellas-2x.jpg 1853w,
-/assets/images/wc2020/buncha_fellas-3x.jpg 2779w,
-/assets/images/wc2020/buncha_fellas-4x.jpg 3705w"
-src="/assets/images/wc2020/buncha_fellas-fallback.jpg" alt="some dudes" class="img-thumbnail card-img">
+<img src="/assets/images/wc2020/buncha_fellas.jpg" loading="lazy" alt="some dudes" class="img-thumbnail card-img">
 </div>
 <div class="col-md-8">
 <div class="card-body" markdown="1">
