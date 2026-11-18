@@ -16,12 +16,15 @@
 **Topic:** {{ page.conference.topic }}  
 **What else:** Fellowship, workshops by other speakers, food, fun, and games!  
 **Cost:** {{ page.conference.cost }}  
-**Accommodations:** Bunk beds and mattresses are provided. Please bring a sleeping bag, pillow, and towel. And don't forget to bring snacks to share! All meals (excluding Friday night) are provided.
+{% if page.conference.scholarships %}**Scholarships:** Available if the cost is prohibitive. Please reach out to us!  
+{% endif %}**Accommodations:** Bunk beds and mattresses are provided. Please bring a sleeping bag, pillow, and towel. And don't forget to bring snacks to share! All meals (excluding Friday night) are provided.
 
 <center>
 {% if page.conference.registration.is-open and page.conference.registration.url %}
 <a href="{{ page.conference.registration.url }}"><button class="big-button m-2">Register now!</button></a>
 <div style="width: 60px"></div>
+{% elsif page.conference.registration.opens %}
+<p><strong>Registration opens {{ page.conference.registration.opens }}!</strong></p>
 {% endif %}
 <a href="{{ page.conference.flyer.url }}"><button class="big-button m-2">Flyer</button></a>
 </center>

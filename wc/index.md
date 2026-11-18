@@ -15,10 +15,12 @@ conference:
       many children and grandchildren."
     pic: "/assets/images/wc2027/byork.png"
   topic: "Loving the Trinity: Responding to God's Love in the Salvation of the Church"
-  cost: "TBA"
+  cost: "$115 early bird (through December 15), then $145"
+  scholarships: true
   worship: "Marion RPC"
   registration:
     is-open: false
+    opens: "Wednesday, November 25"
     url: "https://rpcl.breezechms.com/form/winter-conference-2027"
   flyer:
     url: "/assets/images/wc2027/CORPS-WC-2027_Flyer.png"
